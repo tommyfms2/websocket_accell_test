@@ -130,7 +130,7 @@
       "resolved": "https://registry.npmjs.org/engine.io-parser/-/engine.io-parser-2.1.2.tgz",
       "version": "2.1.2"
     },
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "has-binary2": {
       "integrity": "sha1-6D26SfC5vk0CbSc2U1DZ8D9Uvpg=",
       "requires": {
